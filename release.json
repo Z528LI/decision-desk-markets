@@ -1,14 +1,14 @@
 {
   "aShareDate": "2026-11-16",
   "usDate": "2026-11-13",
-  "builtAt": "2026-11-16T22:36:43+08:00",
-  "sourceCommit": "e75e4545f46dab253b75ff555a53f27388a2ff5f",
+  "builtAt": "2026-11-16T22:45:13+08:00",
+  "sourceCommit": "3103a5204a740a01ad1da0002d837d978d20806d",
   "aShareCoveragePct": 99.9,
   "aShareStocks": 5571,
   "aShareUniverse": 5578,
   "usEtfs": 14,
   "macroSeries": 11,
-  "sha256": "c8821e48c85e78d8045b4b1677057ad8a67fc0da6bddde84187e1117b48e3ee2",
+  "sha256": "06b3c26d5c2a80aa4d199ec2af28fda0ded62e920ea09fd3e2ff5a0a79612435",
   "marginDate": "2026-11-13",
   "valuationDate": "2026-11-13",
   "valuationBenchmarks": 6,
@@ -16,6 +16,8 @@
   "aShareTradableCoveragePct": 100.0,
   "usBreadthSample": 503,
   "valuationHistoryIndices": 5,
+  "valuationPbHistoryIndices": 6,
+  "valuationDividendHistoryIndices": 5,
   "valuationHistoryMissing": [
     "000985"
   ]
