@@ -1,15 +1,15 @@
 {
-  "aShareDate": "2026-11-13",
+  "aShareDate": "2026-11-16",
   "usDate": "2026-11-13",
-  "builtAt": "2026-11-16T22:14:54+08:00",
+  "builtAt": "2026-11-16T22:16:42+08:00",
   "sourceCommit": "e13d8553630c66ccb6cdafc91f22b134f485ad4e",
-  "aShareCoveragePct": 95.43739279588335,
-  "aShareStocks": 5564,
-  "aShareUniverse": 5830,
+  "aShareCoveragePct": 99.7,
+  "aShareStocks": 5559,
+  "aShareUniverse": 5578,
   "usEtfs": 14,
   "macroSeries": 11,
-  "sha256": "7ec7f1828392f12a7be0d55ade020fee405231312525ae9d32f62137d24ab846",
+  "sha256": "0fb19624f4c3ef46a5ef8b82051ff427923f1bd5edc98a782560acb268ab2b13",
   "marginDate": "2026-11-13",
-  "valuationDate": "2026-11-16",
+  "valuationDate": "2026-11-13",
   "valuationBenchmarks": 6
 }
