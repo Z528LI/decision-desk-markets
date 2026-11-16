@@ -1,12 +1,13 @@
 {
   "aShareDate": "2026-11-13",
   "usDate": "2026-11-13",
-  "builtAt": "2026-11-16T21:55:57+08:00",
+  "builtAt": "2026-11-16T22:12:30+08:00",
   "sourceCommit": "e13d8553630c66ccb6cdafc91f22b134f485ad4e",
   "aShareCoveragePct": 95.43739279588335,
   "aShareStocks": 5564,
   "aShareUniverse": 5830,
   "usEtfs": 14,
-  "macroSeries": 5,
-  "sha256": "2695467faa20a41d8dc801ba6596406280193f1dc75a88039d482bbe150a5e14"
+  "macroSeries": 11,
+  "sha256": "3a1f02f3474389420473d93195eb81cb6079b0f354f1950363d0c429c3d82b89",
+  "marginDate": "2026-11-13"
 }
