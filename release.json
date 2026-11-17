@@ -1,14 +1,228 @@
 {
   "aShareDate": "2026-11-17",
   "usDate": "2026-11-16",
-  "builtAt": "2026-11-17T20:27:04+08:00",
-  "sourceCommit": "a007b18ba007bd14f3169551556b5e0ba5ed3bab",
+  "builtAt": "2026-11-17T22:19:08+08:00",
+  "sourceCommit": "5196693934dac63cb1028be7590b3abfa1576939",
   "aShareCoveragePct": 99.9,
   "aShareStocks": 5572,
   "aShareUniverse": 5579,
   "usEtfs": 14,
   "macroSeries": 11,
-  "sha256": "57fe0f4eb9e9aea8f2dc7f4d1bf8c6b37bc4f72e9f40c68f8f80b7eb7e68faa1",
+  "marketBaseHistory": {
+    "from": "2019-01-10",
+    "through": "2026-11-16",
+    "sessions": 1882,
+    "basis": "archived"
+  },
+  "marketBaseRates": {
+    "schema": "decision-desk-base-rates/v1",
+    "from": "2019-01-10",
+    "klineEnd": "2026-11-16",
+    "unconditional": {
+      "days": 1882,
+      "meanPct": 1.3,
+      "upSharePct": 57.0
+    },
+    "breadthBuckets": {
+      "below20": {
+        "days": 159,
+        "meanPct": 8.3,
+        "medianPct": 6.5,
+        "upSharePct": 68.0
+      },
+      "20to40": {
+        "days": 499,
+        "meanPct": 1.0,
+        "medianPct": 2.0,
+        "upSharePct": 62.0
+      },
+      "40to60": {
+        "days": 652,
+        "meanPct": 0.6,
+        "medianPct": 0.2,
+        "upSharePct": 52.0
+      },
+      "above60": {
+        "days": 572,
+        "meanPct": 0.3,
+        "medianPct": 0.7,
+        "upSharePct": 54.0
+      }
+    },
+    "marginFrom": "2020-10-09",
+    "marginBuckets": {
+      "belowMinus5": {
+        "days": 87,
+        "meanPct": 7.8,
+        "medianPct": 7.9,
+        "upSharePct": 92.0
+      },
+      "minus5to5": {
+        "days": 1220,
+        "meanPct": 0.3,
+        "medianPct": 0.3,
+        "upSharePct": 52.0
+      },
+      "above5": {
+        "days": 154,
+        "meanPct": 1.4,
+        "medianPct": 1.6,
+        "upSharePct": 63.0
+      },
+      "all": {
+        "days": 1461,
+        "meanPct": 0.9,
+        "medianPct": 0.8,
+        "upSharePct": 55.0
+      }
+    },
+    "washoutEpisodes": [
+      {
+        "start": "2019-01-10",
+        "breadthPct": 10.0,
+        "fwd5Pct": 0.4,
+        "fwd20Pct": 5.2,
+        "fwd60Pct": 40.9,
+        "worstWithin60Pct": -5.6,
+        "complete": true
+      },
+      {
+        "start": "2022-04-25",
+        "breadthPct": 12.0,
+        "fwd5Pct": 4.7,
+        "fwd20Pct": 12.0,
+        "fwd60Pct": 26.5,
+        "worstWithin60Pct": -3.6,
+        "complete": true
+      },
+      {
+        "start": "2022-09-30",
+        "breadthPct": 19.0,
+        "fwd5Pct": 5.2,
+        "fwd20Pct": 10.4,
+        "fwd60Pct": 7.4,
+        "worstWithin60Pct": -1.9,
+        "complete": true
+      },
+      {
+        "start": "2024-01-22",
+        "breadthPct": 13.0,
+        "fwd5Pct": 1.5,
+        "fwd20Pct": 2.7,
+        "fwd60Pct": -0.5,
+        "worstWithin60Pct": -19.3,
+        "complete": true
+      },
+      {
+        "start": "2024-06-06",
+        "breadthPct": 18.0,
+        "fwd5Pct": 3.7,
+        "fwd20Pct": -2.1,
+        "fwd60Pct": -3.2,
+        "worstWithin60Pct": -6.9,
+        "complete": true
+      },
+      {
+        "start": "2026-07-17",
+        "breadthPct": 18.0,
+        "fwd5Pct": -2.8,
+        "fwd20Pct": 9.2,
+        "fwd60Pct": 2.0,
+        "worstWithin60Pct": -2.8,
+        "complete": true
+      },
+      {
+        "start": "2026-10-12",
+        "breadthPct": 20.0,
+        "fwd5Pct": -4.1,
+        "fwd20Pct": -6.6,
+        "fwd60Pct": null,
+        "worstWithin60Pct": -10.7,
+        "complete": false
+      }
+    ],
+    "deleveragingEpisodes": [
+      {
+        "start": "2022-01-28",
+        "breadthPct": 46.0,
+        "fwd5Pct": 2.1,
+        "fwd20Pct": 4.8,
+        "fwd60Pct": -15.9,
+        "worstWithin60Pct": -21.7,
+        "complete": true
+      },
+      {
+        "start": "2022-04-25",
+        "breadthPct": 12.0,
+        "fwd5Pct": 4.7,
+        "fwd20Pct": 12.0,
+        "fwd60Pct": 26.5,
+        "worstWithin60Pct": -3.6,
+        "complete": true
+      },
+      {
+        "start": "2024-01-31",
+        "breadthPct": 11.0,
+        "fwd5Pct": -12.3,
+        "fwd20Pct": 6.5,
+        "fwd60Pct": 13.5,
+        "worstWithin60Pct": -13.9,
+        "complete": true
+      },
+      {
+        "start": "2025-01-27",
+        "breadthPct": 69.0,
+        "fwd5Pct": 6.8,
+        "fwd20Pct": 10.8,
+        "fwd60Pct": 7.7,
+        "worstWithin60Pct": -3.4,
+        "complete": true
+      },
+      {
+        "start": "2025-04-08",
+        "breadthPct": 42.0,
+        "fwd5Pct": 8.9,
+        "fwd20Pct": 14.6,
+        "fwd60Pct": 24.4,
+        "worstWithin60Pct": 0.0,
+        "complete": true
+      },
+      {
+        "start": "2026-02-13",
+        "breadthPct": 74.0,
+        "fwd5Pct": 1.7,
+        "fwd20Pct": -10.4,
+        "fwd60Pct": 0.7,
+        "worstWithin60Pct": -10.4,
+        "complete": true
+      },
+      {
+        "start": "2026-07-17",
+        "breadthPct": 18.0,
+        "fwd5Pct": -2.8,
+        "fwd20Pct": 9.2,
+        "fwd60Pct": 2.0,
+        "worstWithin60Pct": -2.8,
+        "complete": true
+      },
+      {
+        "start": "2026-10-15",
+        "breadthPct": 15.0,
+        "fwd5Pct": -1.5,
+        "fwd20Pct": -1.1,
+        "fwd60Pct": null,
+        "worstWithin60Pct": -6.8,
+        "complete": false
+      }
+    ],
+    "notes": [
+      "Equal-weight A-share index, close to close; returns are not tradable as-is and exclude costs.",
+      "Day buckets use overlapping 20-session windows; treat episode counts as the real sample size.",
+      "Breadth = share of stocks above their 250-day average (stocks with at least 250 sessions)."
+    ]
+  },
+  "marketBaseRatesSha256": "747a265f9e67f53f256f594e697baaaa490b00d168f5ef61eb0699f21bf33a97",
+  "sha256": "3da3e736f71b6535780cf64923871ee482ea4a059fed5a476f81dc218217d026",
   "marginDate": "2026-11-16",
   "valuationDate": "2026-11-13",
   "valuationBenchmarks": 6,
