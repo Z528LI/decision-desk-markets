@@ -1,7 +1,7 @@
 {
   "aShareDate": "2026-11-24",
   "usDate": "2026-11-23",
-  "builtAt": "2026-11-24T19:44:31+08:00",
+  "builtAt": "2026-11-25T04:54:11+08:00",
   "sourceCommit": "4348f94c7a6066a8811726a4dcecfd54d4e3cc29",
   "aShareCoveragePct": 99.9,
   "aShareStocks": 5575,
@@ -222,7 +222,7 @@
     ]
   },
   "marketBaseRatesSha256": "747a265f9e67f53f256f594e697baaaa490b00d168f5ef61eb0699f21bf33a97",
-  "sha256": "023016ef1e284f6bae880f8612225c12bd2c5dad821a4b1e997fbf0cdd7db88b",
+  "sha256": "158f0923dbe4c9cf95d62f742ded2af46c9477af7de6c6b5fadae64564a3dac0",
   "marginDate": "2026-11-23",
   "valuationDate": "2026-11-19",
   "valuationBenchmarks": 6,
